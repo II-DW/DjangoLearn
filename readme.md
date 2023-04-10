@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/django-black?style=flat&logo=django&logoColor=#092E20"/> 
 </div>
 
-<img src = "https://www.djangoproject.com/"/>
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Django_logo.svg/278px-Django_logo.svg.png"/>
 
 
 <br /><br /><br /><br />
